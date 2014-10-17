@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fwe:home|Door43 (fwe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fwe|d43-fwe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fwe/archive/master.zip|d43-fwe.zip]]
+
+**Recent Changes**
+{{changes>ns = fwe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fwe|Ethnologue data]]
+
